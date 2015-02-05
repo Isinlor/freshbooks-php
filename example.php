@@ -1,6 +1,6 @@
 <?
 //include particular file for entity you need (Client, Invoice, Category...)
-include_once "library/FreshBooks/Client.php";
+require_once "vendor/autoload.php";
 
 //you API url and token obtained from freshbooks.com
 $url = "your-url-please-replace";

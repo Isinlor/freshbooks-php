@@ -1,0 +1,16 @@
+{
+    "name": "isinlor/freshbooks-php",
+    "description": "Freshbook-php package",
+    "authors": [
+        {
+            "name": "Isinlor",
+            "email": "isinlor@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0" : {
+            "FreshBooks_": "library/"
+        }
+    }
+}
